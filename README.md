@@ -1,11 +1,12 @@
 # projet-11
- admin@
+
 Vous êtes développeur front-end au sein de l’agence Webgencia. 
 Votre client Qwenta souhaite faire développer un “Menu Maker” : un site permettant aux restaurateurs d’afficher et de mettre en page leurs menus facilement, en quelques clics. 
  
  
 Soufiane, le Product Owner du projet est en congé maladie. Il vous a chargé, exceptionnellement, de préparer et planifier ce projet. Il prendra le relai pour présenter votre travail au client.
 Il vous a envoyé la maquette du site et ses spécifications fonctionnelles.
+
 Et il vous a préparé un brief :
 Hello,
 Merci de prendre ce projet en mon absence.
@@ -64,48 +65,60 @@ Vous pouvez essayer d'expliquer à quelqu'un qui ne connaît pas le projet l'id�
 Points de vigilance : 
 N'hésitez pas à dupliquer les user stories et la maquette : cela vous permettra de les commenter si vous vous posez des questions.
 Commencez à réfléchir au lien entre tous les documents. 
+
 Ressources : 
 Dans le cours “Créez une maquette pour le développement web”, le chapitre Prenez en main Figma vous rappellera les commandes de base de Figma.
 De manière générale, la veille technique est une tâche importante dans la vie d’un développeur, qu’il mène en se tenant informé des avancées technologiques, des nouvelles tendances, et parfois même en suivant la progression de ses concurrents.  
 Les résultats de la veille nous aident à trouver les solutions aux spécifications techniques. 
 Les sources doivent donc être en lien avec le projet.
+
 Avant de démarrer cette étape, vous devez avoir :
 une partie de vos spécifications techniques et de votre Kanban.
+
 Une fois cette étape réalisée, vous aurez :
 un outil de veille technique configuré.
 rempli les colonnes "Solution", "Description de la solution", "Justification" du document de spécifications techniques.
+
 Recommandations :
 C'est le moment de vous pencher sur les outils techniques qui pourraient faciliter le développement du site.
 Avant même de vous lancer dans des recherches, vous pouvez lister des outils/librairies que vous avez déjà vus qui pourraient être utiles pour le site.
 Vous pouvez ensuite commencer par chercher le plus largement possible.
 Puis il vous faudra ensuite restreindre vos choix.
+
 Ressources :
 Le cours Mettez en place un système de veille informationnelle
 Le document de solution technique est en partie un listing des différents plugins et librairies nécessaires à la création du projet.
 En face de chacune des fonctionnalités que vous avez identifiées, à vous de notifier la solution que vous avez trouvée grâce à votre veille et votre expertise.
+
 Avant de démarrer cette étape, vous devez avoir :
 une compréhension suffisamment claire du produit qui est attendu pour MenuMaker by Qwenta.
+
 Recommandations :
 Ici, vous allez devoir identifier les challenges techniques du projet.
 Voici quelques étapes que vous pouvez suivre pour identifier les grandes lignes de la solution technique : 
 Penchez-vous sur les besoins et contraintes en les listant en vrac pour le produit.
 Structurez vos idées en tentant de les regrouper par thématiques, et en éliminant les doublons.
 Pour chaque besoin, commencez à réfléchir à des solutions techniques identifiées.
+
 Vous pouvez séparer les différents aspects du développement d'une application front-end :
 UI 
 modèle de données 
 gestion des données entre les différentes parties de l'application.
 Vous pouvez réaliser des diagrammes ou schémas afin de faciliter la compréhension de la solution à construire, notamment sur la structure de votre donnée.
+
 Points de vigilance :
 Même si vous êtes développeur front-end, il est primordial de vous poser quelques questions d'ordre plus général :
 Ce projet nécessite-t-il un développeur back-end ?
 Des API vont-elles être nécessaires ?
+
 Ressources : 
 Le chapitre Concevez l'architecture du programme du cours Gérez votre projet informatique facilement peut vous être utile.
 Le cours sur le Domain Driven Design pourra vous aider à structurer vos données.
 Le Kanban est votre plan d'action quotidien. Il traduit les choix stratégiques des spécifications techniques en tâches concrètes et réalisables par les développeurs.
+
 Recommandations : 
 Il est demandé ici d'utiliser Notion mais vous pouvez utiliser des outils tels que Jira, ou Trello, qui sont utilisés en entreprise également. Faites une structure claire selon les instructions de Soufiane : colonnes, détails, points...
+
 Ressources : 
 Le chapitre Utilisez la méthode Kanban du cours Initiez-vous à la gestion de projet agile.
 Le cours Devenez développeur agile vous sera utile dès à présent et également pour l’étape suivante.
@@ -114,19 +127,24 @@ Notion
 Trello 
 Jira
 C'est ici que tout se concrétise. Vous transformez chaque User Story en tâches techniques précises, estimées et attribuées. Un bon découpage évite les blocages pendant le développement.
+
 Avant de démarrer cette étape, vous devez avoir :
 le document de spécifications techniques finalisé (ou suffisamment avancé),
 la structure de votre Kanban en place (colonnes et premiers tickets créés).
+
 Une fois cette étape réalisée, vous aurez :
 les différentes tâches à réaliser pour pouvoir coder le projet Menu Maker by Qwenta.
 une estimation des différentes tâches en fonction de la taille, selon la méthode que vous choisissez.
+
 Recommandations : 
 Focalisez-vous dans un premier temps sur les user stories qui sont dans la priorité P1. Vous pouvez ensuite vous pencher sur les user stories des priorités inférieures (P2 et P3).
 Créez systématiquement une description et une partie "Spécifications techniques" dans le résumé de votre ticket. Cela vous permettra de détailler les challenges techniques de chaque tâche.
 Vous pouvez mettre en lien les tâches les unes avec les autres.
+
 Points de vigilance : 
 Même les développeurs expérimentés ont parfois du mal à estimer la difficulté/complexité d'une tâche. Ce qui est important ici est davantage la logique détaillée que le chiffrement final. 
 Attention à être le plus précis possible. Par exemple, une tâche "Créer un menu" ne serait pas suffisamment précise, et ne serait donc pas une tâche réalisable.
+
 Ressources : 
 Le chapitre Utilisez la méthode Kanban du cours Initiez-vous à la gestion de projet agile.
 L’article Comment découper son projet.
@@ -135,13 +153,17 @@ Le chapitre du cours Pilotez vos projets de développement en mode Agile pour ca
 Définissez et planifiez efficacement votre Sprint
 La dernière étape de votre projet est arrivée. Vous allez maintenant préparer les supports de présentation pour Soufiane. 
 Il s'agit ici d'agréger les présentations des différents livrables dans un support de présentation final.
+
 Avant de démarrer cette étape, vous devez avoir :
 l'ensemble des livrables.
+
 Une fois cette étape réalisée, vous aurez :
 des notes pour votre soutenance.
 le template de présentation à Soufiane complété
+
 Points de vigilance :
 Attention à ne pas mettre trop d'éléments sur les slides, veillez à bien rester synthétique.
+
 Ressources : 
 Le chapitre Donnez une présentation en entreprise du cours Prenez la parole en public.
 
